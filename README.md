@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Mobile Apps using .NET<br>I'm learning SwiftUI and Jetpack Compose<br>I'm looking to collaborate on any sort of mobile projects, I have also experience working for web apps on both frontend and backend side<br>Ask me about any topic related to mobile development, I'll do my best to help you<br>Are you into Dark Souls game? Don't hesitate to summon me
+I'm currently working on Mobile Apps using .NET<br>I'm learning SwiftUI and Jetpack Compose<br>I'm looking to collaborate on any sort of mobile projects, I have also experience working for web apps on both frontend and backend side<br>Ask me about any topic related to mobile development, I'll do my best to help you<br>Are you into Dark Souls games? Don't hesitate to summon me
 
 
 ## 🌐 Socials:
